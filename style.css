@@ -88,12 +88,7 @@ body {
   display: inline-block; 
   transition: 0.3s;
   box-shadow: 0 4px 10px #f3b700;
-
- font-family: "Merriweather",serif;
-  font-optical-sizing:auto;
-  font-weight: weight;
-  font-style:normal;
-  font-variation-settings:"wdth" 300;
+font-family: 'Caveat Brush', cursive;
 }
 .menu .boton-especial a:hover{
   background: transparent;
