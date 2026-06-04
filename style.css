@@ -687,6 +687,8 @@ html, body{
     font-size:16px;
     line-height:1.6;
     padding:0 20px;
+    width: 65%;
+    margin: auto;
   }
 
   /* BOTONES */
